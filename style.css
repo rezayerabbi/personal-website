@@ -23,12 +23,12 @@
     margin-left: 5%;
     padding-left: 2%;
 }
-
 .onethird-width img{
     width: 100%;
 }
+.work-inquiry{
 
-
+}
 body{
     margin: 0;
 }
@@ -57,7 +57,6 @@ h2{
     font-size: 40px;
     font-family: 'Bebas Neue', cursive;
 }
-
 h3{
     margin:0;
     padding:0;
